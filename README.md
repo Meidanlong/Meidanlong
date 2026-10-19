@@ -50,10 +50,10 @@
 | 项目 | 说明 |
 |---|---|
 | [ruoyi-cloud-plus-uniapp](https://github.com/Meidanlong/ruoyi-cloud-plus-uniapp) | RuoYi-Cloud-Plus 全栈整合：后端 + uni-app 移动端 + Snail AI |
-| [jianying-ai-cut](https://github.com/Meidanlong/jianying-ai-cut) | AI 自动剪辑流水线：豆包多模态理解 → 剪映成片 |
-| [video-ai-cut](https://github.com/Meidanlong/video-ai-cut) | 视频理解关键点自动剪辑 |
+| [jianying-ai-cut-skill](https://github.com/Meidanlong/jianying-ai-cut-skill) | AI 自动剪辑流水线：豆包多模态理解 → 剪映成片 |
+| [video-ai-cut-skill](https://github.com/Meidanlong/video-ai-cut-skill) | 视频理解关键点自动剪辑 |
 | [ai-music-composer-skill](https://github.com/Meidanlong/ai-music-composer-skill) | AI 歌曲制作流水线：Demo 音频 → 成品歌曲 |
-| [doubao-supervises-codebuddy](https://github.com/Meidanlong/doubao-supervises-codebuddy) | 监督者模式 Skill：Doubao 审核 + CodeBuddy 执行 |
+| [codebuddy-supervisor-skill](https://github.com/Meidanlong/codebuddy-supervisor-skill) | 监督者模式 Skill：Doubao 审核 + CodeBuddy 执行 |
 | [drama-pipeline-skill](https://github.com/Meidanlong/drama-pipeline-skill) | AI 短剧视频生成工作流 |
 
 ---
